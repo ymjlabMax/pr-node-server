@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/max/Desktop/templelit/pr-node/server/logs/.81f611da48fd4e2892110d25ae30ecd417fbffdc-audit.json",
+    "files": [
+        {
+            "date": 1665719601703,
+            "name": "/Users/max/Desktop/templelit/pr-node/server/logs/2022-10-14.error.log",
+            "hash": "011b5c8fba7f054b3011b1a546b9dfddd8027efe9bb2781c0b68afa4209c14c3"
+        },
+        {
+            "date": 1665979349435,
+            "name": "/Users/max/Desktop/templelit/pr-node/server/logs/2022-10-17.error.log",
+            "hash": "f9ed92b34d4e556b7f93eb655d65aa829739f7ce00a9dc8b1d70678f7ddd8149"
+        }
+    ],
+    "hashType": "sha256"
+}

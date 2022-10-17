@@ -1,0 +1,40 @@
+2022-10-17 14:29:56 error: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'user_id = 'USER_1ST'' at line 4
+    at PromisePoolConnection.query (/Users/max/Desktop/templelit/pr-node/server/node_modules/mysql2/promise.js:93:22)
+    at Object.selectUser (/Users/max/Desktop/templelit/pr-node/server/src/model/user/UserModel.js:39:44)
+    at signUp (/Users/max/Desktop/templelit/pr-node/server/src/controller/user/UserController.js:45:42)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2022-10-17 14:29:56 error: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'user_id = 'USER_1ST'' at line 4
+    at PromisePoolConnection.query (/Users/max/Desktop/templelit/pr-node/server/node_modules/mysql2/promise.js:93:22)
+    at Object.selectUser (/Users/max/Desktop/templelit/pr-node/server/src/model/user/UserModel.js:39:44)
+    at signUp (/Users/max/Desktop/templelit/pr-node/server/src/controller/user/UserController.js:45:42)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2022-10-17 14:31:34 error: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'user_id = 'USER_1ST'' at line 4
+    at PromisePoolConnection.query (/Users/max/Desktop/templelit/pr-node/server/node_modules/mysql2/promise.js:93:22)
+    at Object.selectUser (/Users/max/Desktop/templelit/pr-node/server/src/model/user/UserModel.js:39:44)
+    at signUp (/Users/max/Desktop/templelit/pr-node/server/src/controller/user/UserController.js:45:42)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2022-10-17 14:31:34 error: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'user_id = 'USER_1ST'' at line 4
+    at PromisePoolConnection.query (/Users/max/Desktop/templelit/pr-node/server/node_modules/mysql2/promise.js:93:22)
+    at Object.selectUser (/Users/max/Desktop/templelit/pr-node/server/src/model/user/UserModel.js:39:44)
+    at signUp (/Users/max/Desktop/templelit/pr-node/server/src/controller/user/UserController.js:45:42)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2022-10-17 14:34:27 error: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'user_id = 'USER_1ST'' at line 4
+    at PromisePoolConnection.query (/Users/max/Desktop/templelit/pr-node/server/node_modules/mysql2/promise.js:93:22)
+    at Object.selectUser (/Users/max/Desktop/templelit/pr-node/server/src/model/user/UserModel.js:39:44)
+    at signUp (/Users/max/Desktop/templelit/pr-node/server/src/controller/user/UserController.js:45:42)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2022-10-17 14:34:27 error: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'user_id = 'USER_1ST'' at line 4
+    at PromisePoolConnection.query (/Users/max/Desktop/templelit/pr-node/server/node_modules/mysql2/promise.js:93:22)
+    at Object.selectUser (/Users/max/Desktop/templelit/pr-node/server/src/model/user/UserModel.js:39:44)
+    at signUp (/Users/max/Desktop/templelit/pr-node/server/src/controller/user/UserController.js:45:42)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2022-10-17 14:35:27 error: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'user_id = 'USER_1ST'' at line 4
+    at PromisePoolConnection.query (/Users/max/Desktop/templelit/pr-node/server/node_modules/mysql2/promise.js:93:22)
+    at Object.selectUser (/Users/max/Desktop/templelit/pr-node/server/src/model/user/UserModel.js:39:44)
+    at signUp (/Users/max/Desktop/templelit/pr-node/server/src/controller/user/UserController.js:45:42)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2022-10-17 14:35:27 error: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'user_id = 'USER_1ST'' at line 4
+    at PromisePoolConnection.query (/Users/max/Desktop/templelit/pr-node/server/node_modules/mysql2/promise.js:93:22)
+    at Object.selectUser (/Users/max/Desktop/templelit/pr-node/server/src/model/user/UserModel.js:39:44)
+    at signUp (/Users/max/Desktop/templelit/pr-node/server/src/controller/user/UserController.js:45:42)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)

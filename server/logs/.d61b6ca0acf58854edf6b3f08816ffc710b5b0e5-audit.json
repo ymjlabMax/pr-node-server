@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/max/Desktop/templelit/pr-node/server/logs/.d61b6ca0acf58854edf6b3f08816ffc710b5b0e5-audit.json",
+    "files": [
+        {
+            "date": 1665719601702,
+            "name": "/Users/max/Desktop/templelit/pr-node/server/logs/2022-10-14.log",
+            "hash": "06258cfc0abfdf2c8f0f8de52e172e23053f66221fcf563e16b47df1a737003c"
+        },
+        {
+            "date": 1665979349434,
+            "name": "/Users/max/Desktop/templelit/pr-node/server/logs/2022-10-17.log",
+            "hash": "cf4c32eade8e93e74172b303af043c65534dd9ae110d355c48bfdf25c8df437c"
+        }
+    ],
+    "hashType": "sha256"
+}

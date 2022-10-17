@@ -1,0 +1,11 @@
+openapi: "3.0.0"
+info:
+    version: 0.4.0
+    title: eedited API docs
+    description: eedited의 API 문서입니다
+    license:
+        name: MIT
+servers:
+    - url: https://localhost:4000/
+paths:
+components:
